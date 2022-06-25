@@ -1,0 +1,21 @@
+button {
+    background-color:pink;
+    border:dashed;
+    padding:5px;
+}
+
+h1 {
+    color:blue;
+    padding:10px;
+    background-color:lightgreen;
+}
+
+.container {display: flex;
+   justify-content: center;
+}
+
+img {
+    width:600px;
+    height:600px;
+
+}
